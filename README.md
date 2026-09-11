@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1833-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
