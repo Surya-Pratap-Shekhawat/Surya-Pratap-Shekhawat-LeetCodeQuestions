@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0861-flipping-an-image) |
 | [1603-running-sum-of-1d-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -42,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
