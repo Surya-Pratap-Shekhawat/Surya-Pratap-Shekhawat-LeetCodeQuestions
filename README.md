@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0861-flipping-an-image) |
 | [1603-running-sum-of-1d-array](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/1603-running-sum-of-1d-array) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0861-flipping-an-image) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Surya-Pratap-Shekhawat/Surya-Pratap-Shekhawat-LeetCodeQuestions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
